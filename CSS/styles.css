@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(140, 142, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-one, .header-two {
+    text-align: center;
+}
+
+.list {
+    color: aliceblue;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
