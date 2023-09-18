@@ -14,7 +14,8 @@
     display: block;
     padding: 8px;
     text-align: center;
-    padding-right: 60px;
+    padding-right: 0px;
+    margin-right: 60px;
 }
 
 .image {
