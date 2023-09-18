@@ -1,14 +1,20 @@
 * {
-    background-color: rgb(140, 142, 167);
+    background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header-one, .header-two {
     text-align: center;
+    background: grey;
+    padding: 8px;
+    border: 2px black solid;
 }
 
 .list {
-    color: aliceblue;
+    display: block;
+    padding: 8px;
+    text-align: center;
+    padding-right: 60px;
 }
 
 .image {
@@ -17,4 +23,15 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+ul li {
+    margin-bottom: 8px;
+    border: 2px black solid;
+    padding: 8px;
+
+}
+
+ol li {
+    margin-bottom: 12px;
 }
