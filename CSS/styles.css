@@ -1,13 +1,15 @@
 * {
-    background-color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #E7F6F2;
+    font-family: inherit, Helvetica, sans-serif;
+    color: #2C3333;
 }
 
 .header-one, .header-two {
     text-align: center;
-    background: grey;
+    background: #395B64;
     padding: 8px;
-    border: 2px black solid;
+    border: 2px #2C3333 solid;
+    color: #E7F6F2;
 }
 
 .list {
@@ -28,9 +30,8 @@
 
 ul li {
     margin-bottom: 8px;
-    border: 2px black solid;
+    border: 1px #2C3333 solid;
     padding: 8px;
-
 }
 
 ol li {
