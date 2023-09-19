@@ -10,14 +10,15 @@
     padding: 8px;
     border: 2px #2C3333 solid;
     color: #E7F6F2;
+    max-width: 800px;
+    margin: 24px auto;
 }
 
 .list {
     display: block;
     padding: 8px;
-    text-align: center;
-    padding-right: 0px;
-    margin-right: 60px;
+    margin: 6px auto;
+    max-width: 600px;
 }
 
 .image {
@@ -29,11 +30,19 @@
 }
 
 ul li {
-    margin-bottom: 8px;
+    margin: 8px auto;
     border: 1px #2C3333 solid;
     padding: 8px;
+    max-width: 600px;
 }
 
 ol li {
-    margin-bottom: 12px;
+    margin: 12px auto;
+    max-width: 800px;
+}
+
+p {
+    max-width: 800px;
+    margin: 0 auto;
+    
 }
